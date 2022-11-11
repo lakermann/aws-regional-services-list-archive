@@ -1,0 +1,26 @@
+name: Archive AWS regional services list
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  aws-regional-services-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Download list
+        run: curl https://api.regional-table.region-services.aws.a2z.com/index.json | jq '[.prices[] .attributes] | sort_by(."aws:region", ."aws:serviceName") | .[] | join(",")' -r > aws-regional-services-`date +%F`.csv
+        working-directory: data
+
+      - name: Commit and push list
+        run: |
+          git config --global user.name "Lukas Akermann"
+          git config --global user.email "lakermann@users.noreply.github.com"
+          git add -A
+          git commit -am "Automated archive" 
+          git push
+        working-directory: data
+
