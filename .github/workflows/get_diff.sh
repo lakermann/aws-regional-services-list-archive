@@ -14,7 +14,7 @@ function main() {
   local start_date=""
   local end_date=""
   local temp_month_and_year="";
-  for file in "${data_folder}"/*
+  for file in "${data_folder}"/*.csv
   do
     current_date="$(echo "${file}" | grep -Eo '[[:digit:]]{4}-[[:digit:]]{2}-[[:digit:]]{2}')"
     current_month_and_year="$(echo "${current_date}" | grep -Eo '[[:digit:]]{4}-[[:digit:]]{2}')"
