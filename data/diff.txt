@@ -312,5 +312,3 @@ Diff from 2023-10-01 to 2023-10-31
   eu-central-2,Amazon SageMaker,https://aws.amazon.com/sagemaker/
   eu-central-2,Amazon Simple Notification Service (SNS),https://aws.amazon.com/sns/
   eu-central-2,Amazon Simple Queue Service (SQS),https://aws.amazon.com/sqs/
-
-Diff from 2023-11-01 to 2023-10-31
