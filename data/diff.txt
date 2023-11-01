@@ -1,0 +1,316 @@
+
+Diff from 2022-11-12 to 2022-11-30
+
+Diff from 2022-12-01 to 2022-12-31
+  eu-central-2,AWS Artifact,https://aws.amazon.com/artifact/
+  eu-central-2,AWS Certificate Manager,https://aws.amazon.com/certificate-manager/
++ eu-central-2,AWS Chatbot,https://aws.amazon.com/chatbot/
++ eu-central-2,AWS Cloud Map,https://aws.amazon.com/cloud-map/
+  eu-central-2,AWS CloudFormation,https://aws.amazon.com/cloudformation/
++ eu-central-2,AWS CloudHSM,https://aws.amazon.com/cloudhsm/
+  eu-central-2,AWS CloudTrail,https://aws.amazon.com/cloudtrail/
+  eu-central-2,AWS CodeDeploy,https://aws.amazon.com/codedeploy/
+  eu-central-2,AWS Config,https://aws.amazon.com/config/
+  eu-central-2,AWS Organizations,https://aws.amazon.com/organizations
+  eu-central-2,AWS Personal Health Dashboard,https://aws.amazon.com/premiumsupport/phd/
+  eu-central-2,AWS PrivateLink,https://aws.amazon.com/privatelink/
++ eu-central-2,AWS Resource Access Manager (RAM),https://aws.amazon.com/ram/
+  eu-central-2,AWS Secrets Manager,https://aws.amazon.com/secrets-manager/
+  eu-central-2,AWS Step Functions,https://aws.amazon.com/step-functions/details/
+  eu-central-2,AWS Support,https://aws.amazon.com/premiumsupport/
+  eu-central-2,Amazon Elastic Compute Cloud (EC2),https://aws.amazon.com/ec2/
+  eu-central-2,Amazon Elastic Container Registry (ECR),https://aws.amazon.com/ecr/
+  eu-central-2,Amazon Elastic Container Service (ECS),https://aws.amazon.com/ecs/
++ eu-central-2,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
+  eu-central-2,Amazon Elastic MapReduce (EMR),https://aws.amazon.com/emr/
+  eu-central-2,Amazon EventBridge,https://aws.amazon.com/eventbridge/
++ eu-central-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
+  eu-central-2,Amazon Kinesis Data Streams,https://aws.amazon.com/kinesis/streams/
+  eu-central-2,Amazon OpenSearch Service,https://aws.amazon.com/opensearch-service/
+  eu-central-2,Amazon Redshift,https://aws.amazon.com/redshift/
+
+Diff from 2023-01-01 to 2023-01-31
+  eu-central-2,AWS Artifact,https://aws.amazon.com/artifact/
+  eu-central-2,AWS Certificate Manager,https://aws.amazon.com/certificate-manager/
+  eu-central-2,AWS Chatbot,https://aws.amazon.com/chatbot/
++ eu-central-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+  eu-central-2,AWS Cloud Map,https://aws.amazon.com/cloud-map/
+  eu-central-2,AWS CloudFormation,https://aws.amazon.com/cloudformation/
+  eu-central-2,AWS CloudHSM,https://aws.amazon.com/cloudhsm/
+  eu-central-2,AWS Resource Access Manager (RAM),https://aws.amazon.com/ram/
+  eu-central-2,AWS Secrets Manager,https://aws.amazon.com/secrets-manager/
+  eu-central-2,AWS Step Functions,https://aws.amazon.com/step-functions/details/
++ eu-central-2,AWS Storage Gateway,https://aws.amazon.com/storagegateway/
+  eu-central-2,AWS Support,https://aws.amazon.com/premiumsupport/
+  eu-central-2,AWS Systems Manager,https://aws.amazon.com/systems-manager/
+  eu-central-2,AWS Trusted Advisor,https://aws.amazon.com/premiumsupport/trustedadvisor/
+
+Diff from 2023-02-01 to 2023-02-28
+  eu-central-2,AWS CloudTrail,https://aws.amazon.com/cloudtrail/
+  eu-central-2,AWS CodeDeploy,https://aws.amazon.com/codedeploy/
+  eu-central-2,AWS Config,https://aws.amazon.com/config/
++ eu-central-2,AWS DataSync,https://aws.amazon.com/datasync
+  eu-central-2,AWS Database Migration Service,https://aws.amazon.com/dms/
+  eu-central-2,AWS Direct Connect,https://aws.amazon.com/directconnect/
++ eu-central-2,AWS Directory Service,https://aws.amazon.com/directoryservice/
+  eu-central-2,AWS Fargate,https://aws.amazon.com/fargate/
+  eu-central-2,AWS Identity and Access Management (IAM),https://aws.amazon.com/iam
+  eu-central-2,AWS Key Management Service,https://aws.amazon.com/kms/
+  eu-central-2,AWS Personal Health Dashboard,https://aws.amazon.com/premiumsupport/phd/
+  eu-central-2,AWS PrivateLink,https://aws.amazon.com/privatelink/
+  eu-central-2,AWS Resource Access Manager (RAM),https://aws.amazon.com/ram/
++ eu-central-2,AWS Resource Groups,https://docs.aws.amazon.com/ARG/index.html
+  eu-central-2,AWS Secrets Manager,https://aws.amazon.com/secrets-manager/
+  eu-central-2,AWS Step Functions,https://aws.amazon.com/step-functions/details/
+  eu-central-2,AWS Storage Gateway,https://aws.amazon.com/storagegateway/
+  eu-central-2,AWS Support,https://aws.amazon.com/premiumsupport/
+  eu-central-2,AWS Systems Manager,https://aws.amazon.com/systems-manager/
++ eu-central-2,AWS Transit Gateway,https://aws.amazon.com/transit-gateway/
+  eu-central-2,AWS Trusted Advisor,https://aws.amazon.com/premiumsupport/trustedadvisor/
+  eu-central-2,AWS VPN,https://aws.amazon.com/vpn/
+  eu-central-2,AWS X-Ray,https://aws.amazon.com/xray/
+  eu-central-2,Amazon Elastic Container Registry (ECR),https://aws.amazon.com/ecr/
+  eu-central-2,Amazon Elastic Container Service (ECS),https://aws.amazon.com/ecs/
+  eu-central-2,Amazon Elastic File System (EFS),https://aws.amazon.com/efs/
++ eu-central-2,Amazon Elastic Kubernetes Service (EKS),https://aws.amazon.com/eks
+  eu-central-2,Amazon Elastic MapReduce (EMR),https://aws.amazon.com/emr/
+  eu-central-2,Amazon EventBridge,https://aws.amazon.com/eventbridge/
+  eu-central-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
++ eu-central-2,Amazon Kinesis Data Firehose,https://aws.amazon.com/kinesis/firehose/
+  eu-central-2,Amazon Kinesis Data Streams,https://aws.amazon.com/kinesis/streams/
+  eu-central-2,Amazon OpenSearch Service,https://aws.amazon.com/opensearch-service/
+  eu-central-2,Amazon Redshift,https://aws.amazon.com/redshift/
+
+Diff from 2023-03-01 to 2023-03-31
+  eu-central-2,AWS Resource Access Manager (RAM),https://aws.amazon.com/ram/
+  eu-central-2,AWS Resource Groups,https://docs.aws.amazon.com/ARG/index.html
+  eu-central-2,AWS Secrets Manager,https://aws.amazon.com/secrets-manager/
++ eu-central-2,AWS Security Hub,https://aws.amazon.com/security-hub/
++ eu-central-2,AWS Service Catalog,https://aws.amazon.com/servicecatalog/
+  eu-central-2,AWS Step Functions,https://aws.amazon.com/step-functions/details/
+  eu-central-2,AWS Storage Gateway,https://aws.amazon.com/storagegateway/
+  eu-central-2,AWS Support,https://aws.amazon.com/premiumsupport/
+  eu-central-2,AWS Transit Gateway,https://aws.amazon.com/transit-gateway/
+  eu-central-2,AWS Trusted Advisor,https://aws.amazon.com/premiumsupport/trustedadvisor/
+  eu-central-2,AWS VPN,https://aws.amazon.com/vpn/
++ eu-central-2,AWS WAF,https://aws.amazon.com/waf/
+  eu-central-2,AWS X-Ray,https://aws.amazon.com/xray/
+  eu-central-2,Amazon API Gateway,https://aws.amazon.com/api-gateway/
+  eu-central-2,Amazon Aurora,https://aws.amazon.com/rds/aurora/
+  eu-central-2,Amazon CloudFront,https://aws.amazon.com/cloudfront/
+  eu-central-2,Amazon CloudWatch,https://aws.amazon.com/cloudwatch/
++ eu-central-2,Amazon CloudWatch Logs,https://aws.amazon.com/cloudwatch/
+  eu-central-2,Amazon DynamoDB,https://aws.amazon.com/dynamodb/
+  eu-central-2,Amazon EC2 Auto Scaling,https://aws.amazon.com/ec2/autoscaling/
+  eu-central-2,Amazon ElastiCache,https://aws.amazon.com/elasticache/
+  eu-central-2,Amazon Redshift,https://aws.amazon.com/redshift/
+  eu-central-2,Amazon Relational Database Service (RDS),https://aws.amazon.com/rds/
+  eu-central-2,Amazon Route 53,https://aws.amazon.com/route53/
++ eu-central-2,Amazon SageMaker,https://aws.amazon.com/sagemaker/
+  eu-central-2,Amazon Simple Notification Service (SNS),https://aws.amazon.com/sns/
+  eu-central-2,Amazon Simple Queue Service (SQS),https://aws.amazon.com/sqs/
+  eu-central-2,Amazon Simple Storage Service (S3),https://aws.amazon.com/s3/
+
+Diff from 2023-04-01 to 2023-04-30
++ eu-central-2,AWS AppSync,https://aws.amazon.com/appsync/
+  eu-central-2,AWS Artifact,https://aws.amazon.com/artifact/
++ eu-central-2,AWS Backup,https://aws.amazon.com/backup/
++ eu-central-2,AWS Batch,https://aws.amazon.com/batch/
+  eu-central-2,AWS Certificate Manager,https://aws.amazon.com/certificate-manager/
+  eu-central-2,AWS Chatbot,https://aws.amazon.com/chatbot/
+  eu-central-2,AWS Cloud Control API,https://aws.amazon.com/cloudcontrolapi/
+  eu-central-2,AWS CloudFormation,https://aws.amazon.com/cloudformation/
+  eu-central-2,AWS CloudHSM,https://aws.amazon.com/cloudhsm/
+  eu-central-2,AWS CloudTrail,https://aws.amazon.com/cloudtrail/
++ eu-central-2,AWS CodeBuild,https://aws.amazon.com/codebuild/
+  eu-central-2,AWS CodeDeploy,https://aws.amazon.com/codedeploy/
++ eu-central-2,AWS CodePipeline,https://aws.amazon.com/codepipeline/
+  eu-central-2,AWS Config,https://aws.amazon.com/config/
+  eu-central-2,AWS DataSync,https://aws.amazon.com/datasync
+  eu-central-2,AWS Database Migration Service,https://aws.amazon.com/dms/
+  eu-central-2,AWS Direct Connect,https://aws.amazon.com/directconnect/
+  eu-central-2,AWS Directory Service,https://aws.amazon.com/directoryservice/
+  eu-central-2,AWS Fargate,https://aws.amazon.com/fargate/
++ eu-central-2,AWS Firewall Manager,https://aws.amazon.com/firewall-manager/
++ eu-central-2,AWS Glue,https://aws.amazon.com/glue/
+  eu-central-2,AWS Identity and Access Management (IAM),https://aws.amazon.com/iam
+  eu-central-2,AWS Key Management Service,https://aws.amazon.com/kms/
++ eu-central-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+  eu-central-2,AWS Lambda,https://aws.amazon.com/lambda/
+  eu-central-2,AWS Marketplace,https://aws.amazon.com/mp/
+  eu-central-2,AWS Organizations,https://aws.amazon.com/organizations
+  eu-central-2,Amazon Elastic Kubernetes Service (EKS),https://aws.amazon.com/eks
+  eu-central-2,Amazon Elastic MapReduce (EMR),https://aws.amazon.com/emr/
+  eu-central-2,Amazon EventBridge,https://aws.amazon.com/eventbridge/
++ eu-central-2,Amazon FSx,https://aws.amazon.com/fsx/
++ eu-central-2,Amazon FSx for Lustre,https://aws.amazon.com/fsx/lustre/
++ eu-central-2,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
++ eu-central-2,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
+  eu-central-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
++ eu-central-2,Amazon Kinesis Data Analytics,https://aws.amazon.com/kinesis/analytics/
+  eu-central-2,Amazon Kinesis Data Firehose,https://aws.amazon.com/kinesis/firehose/
+  eu-central-2,Amazon Kinesis Data Streams,https://aws.amazon.com/kinesis/streams/
++ eu-central-2,Amazon Managed Streaming for Apache Kafka,https://aws.amazon.com/msk/
+  eu-central-2,Amazon OpenSearch Service,https://aws.amazon.com/opensearch-service/
+  eu-central-2,Amazon Redshift,https://aws.amazon.com/redshift/
+  eu-central-2,Amazon Relational Database Service (RDS),https://aws.amazon.com/rds/
+  eu-central-2,Amazon Simple Storage Service (S3),https://aws.amazon.com/s3/
+  eu-central-2,Amazon Simple Workflow Service (SWF),https://aws.amazon.com/swf/
+  eu-central-2,Amazon Virtual Private Cloud (VPC),https://aws.amazon.com/vpc/
++ eu-central-2,EC2 Image Builder,https://aws.amazon.com/image-builder/
+  eu-central-2,Elastic Load Balancing,https://aws.amazon.com/elasticloadbalancing/
+
+Diff from 2023-05-01 to 2023-05-31
+  eu-central-2,AWS Fargate,https://aws.amazon.com/fargate/
+  eu-central-2,AWS Firewall Manager,https://aws.amazon.com/firewall-manager/
+  eu-central-2,AWS Glue,https://aws.amazon.com/glue/
+  eu-central-2,AWS Identity and Access Management (IAM),https://aws.amazon.com/iam
+  eu-central-2,AWS Key Management Service,https://aws.amazon.com/kms/
+  eu-central-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+  eu-central-2,AWS Lambda,https://aws.amazon.com/lambda/
+  eu-central-2,AWS Marketplace,https://aws.amazon.com/mp/
+  eu-central-2,AWS Organizations,https://aws.amazon.com/organizations
+- eu-central-2,AWS Personal Health Dashboard,https://aws.amazon.com/premiumsupport/phd/
+  eu-central-2,AWS Private Certificate Authority,https://aws.amazon.com/private-ca/
+  eu-central-2,AWS PrivateLink,https://aws.amazon.com/privatelink/
+  eu-central-2,AWS Resource Access Manager (RAM),https://aws.amazon.com/ram/
+  eu-central-2,AWS Fargate,https://aws.amazon.com/fargate/
+  eu-central-2,AWS Firewall Manager,https://aws.amazon.com/firewall-manager/
+  eu-central-2,AWS Glue,https://aws.amazon.com/glue/
++ eu-central-2,AWS Health Dashboard,https://aws.amazon.com/premiumsupport/technology/aws-health-dashboard/
+  eu-central-2,AWS Identity and Access Management (IAM),https://aws.amazon.com/iam
+  eu-central-2,AWS Key Management Service,https://aws.amazon.com/kms/
+  eu-central-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+  eu-central-2,AWS Lambda,https://aws.amazon.com/lambda/
+  eu-central-2,AWS Marketplace,https://aws.amazon.com/mp/
+  eu-central-2,AWS Organizations,https://aws.amazon.com/organizations
+  eu-central-2,AWS Private Certificate Authority,https://aws.amazon.com/private-ca/
+  eu-central-2,AWS PrivateLink,https://aws.amazon.com/privatelink/
+  eu-central-2,AWS Resource Access Manager (RAM),https://aws.amazon.com/ram/
+  eu-central-2,AWS Secrets Manager,https://aws.amazon.com/secrets-manager/
+  eu-central-2,AWS Security Hub,https://aws.amazon.com/security-hub/
+  eu-central-2,AWS Service Catalog,https://aws.amazon.com/servicecatalog/
++ eu-central-2,AWS Shield,https://aws.amazon.com/shield/
+  eu-central-2,AWS Step Functions,https://aws.amazon.com/step-functions/details/
+  eu-central-2,AWS Storage Gateway,https://aws.amazon.com/storagegateway/
+  eu-central-2,AWS Support,https://aws.amazon.com/premiumsupport/
+  eu-central-2,AWS Systems Manager,https://aws.amazon.com/systems-manager/
++ eu-central-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+  eu-central-2,AWS Transit Gateway,https://aws.amazon.com/transit-gateway/
+  eu-central-2,AWS Trusted Advisor,https://aws.amazon.com/premiumsupport/trustedadvisor/
+  eu-central-2,AWS VPN,https://aws.amazon.com/vpn/
+  eu-central-2,Amazon Kinesis Data Analytics,https://aws.amazon.com/kinesis/analytics/
+  eu-central-2,Amazon Kinesis Data Firehose,https://aws.amazon.com/kinesis/firehose/
+  eu-central-2,Amazon Kinesis Data Streams,https://aws.amazon.com/kinesis/streams/
++ eu-central-2,Amazon MQ,https://aws.amazon.com/amazon-mq/
+  eu-central-2,Amazon Managed Streaming for Apache Kafka,https://aws.amazon.com/msk/
+  eu-central-2,Amazon OpenSearch Service,https://aws.amazon.com/opensearch-service/
+  eu-central-2,Amazon Redshift,https://aws.amazon.com/redshift/
+
+Diff from 2023-06-01 to 2023-06-30
+  eu-central-2,AWS AppSync,https://aws.amazon.com/appsync/
++ eu-central-2,AWS Application Migration Service (MGN),https://aws.amazon.com/application-migration-service/
+  eu-central-2,AWS Artifact,https://aws.amazon.com/artifact/
+  eu-central-2,AWS Backup,https://aws.amazon.com/backup/
+  eu-central-2,AWS Batch,https://aws.amazon.com/batch/
+  eu-central-2,AWS Transfer Family,https://aws.amazon.com/aws-transfer-family/
+  eu-central-2,AWS Transit Gateway,https://aws.amazon.com/transit-gateway/
+  eu-central-2,AWS Trusted Advisor,https://aws.amazon.com/premiumsupport/trustedadvisor/
++ eu-central-2,AWS User Notifications,https://aws.amazon.com/notifications/
+  eu-central-2,AWS VPN,https://aws.amazon.com/vpn/
+  eu-central-2,AWS WAF,https://aws.amazon.com/waf/
+  eu-central-2,AWS X-Ray,https://aws.amazon.com/xray/
+  eu-central-2,Amazon Simple Queue Service (SQS),https://aws.amazon.com/sqs/
+  eu-central-2,Amazon Simple Storage Service (S3),https://aws.amazon.com/s3/
+  eu-central-2,Amazon Simple Workflow Service (SWF),https://aws.amazon.com/swf/
++ eu-central-2,Amazon Verified Permissions,https://aws.amazon.com/verified-permissions/
+  eu-central-2,Amazon Virtual Private Cloud (VPC),https://aws.amazon.com/vpc/
+  eu-central-2,EC2 Image Builder,https://aws.amazon.com/image-builder/
+  eu-central-2,Elastic Load Balancing,https://aws.amazon.com/elasticloadbalancing/
+
+Diff from 2023-07-01 to 2023-07-31
+  eu-central-2,AWS Database Migration Service,https://aws.amazon.com/dms/
+  eu-central-2,AWS Direct Connect,https://aws.amazon.com/directconnect/
+  eu-central-2,AWS Directory Service,https://aws.amazon.com/directoryservice/
++ eu-central-2,AWS Elastic Disaster Recovery (DRS),https://aws.amazon.com/disaster-recovery/
+  eu-central-2,AWS Fargate,https://aws.amazon.com/fargate/
+  eu-central-2,AWS Firewall Manager,https://aws.amazon.com/firewall-manager/
+  eu-central-2,AWS Glue,https://aws.amazon.com/glue/
+  eu-central-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+  eu-central-2,AWS Lambda,https://aws.amazon.com/lambda/
+  eu-central-2,AWS Marketplace,https://aws.amazon.com/mp/
++ eu-central-2,AWS Network Firewall,https://aws.amazon.com/network-firewall/
+  eu-central-2,AWS Organizations,https://aws.amazon.com/organizations
+  eu-central-2,AWS Private Certificate Authority,https://aws.amazon.com/private-ca/
+  eu-central-2,AWS PrivateLink,https://aws.amazon.com/privatelink/
+  eu-central-2,Amazon Virtual Private Cloud (VPC),https://aws.amazon.com/vpc/
+  eu-central-2,EC2 Image Builder,https://aws.amazon.com/image-builder/
+  eu-central-2,Elastic Load Balancing,https://aws.amazon.com/elasticloadbalancing/
++ eu-central-2,VMware Cloud on AWS,https://aws.amazon.com/vmware/
+
+Diff from 2023-08-01 to 2023-08-31
+  eu-central-2,AWS WAF,https://aws.amazon.com/waf/
+  eu-central-2,AWS X-Ray,https://aws.amazon.com/xray/
+  eu-central-2,Amazon API Gateway,https://aws.amazon.com/api-gateway/
++ eu-central-2,Amazon Athena,https://aws.amazon.com/athena/
+  eu-central-2,Amazon Aurora,https://aws.amazon.com/rds/aurora/
+  eu-central-2,Amazon CloudFront,https://aws.amazon.com/cloudfront/
+  eu-central-2,Amazon CloudWatch,https://aws.amazon.com/cloudwatch/
+
+Diff from 2023-09-01 to 2023-09-30
+  eu-central-2,AWS CodeDeploy,https://aws.amazon.com/codedeploy/
+  eu-central-2,AWS CodePipeline,https://aws.amazon.com/codepipeline/
+  eu-central-2,AWS Config,https://aws.amazon.com/config/
++ eu-central-2,AWS Control Tower,https://aws.amazon.com/controltower
+  eu-central-2,AWS DataSync,https://aws.amazon.com/datasync
+  eu-central-2,AWS Database Migration Service,https://aws.amazon.com/dms/
+  eu-central-2,AWS Direct Connect,https://aws.amazon.com/directconnect/
+  eu-central-2,AWS Elastic Disaster Recovery (DRS),https://aws.amazon.com/disaster-recovery/
+  eu-central-2,AWS Fargate,https://aws.amazon.com/fargate/
+  eu-central-2,AWS Firewall Manager,https://aws.amazon.com/firewall-manager/
++ eu-central-2,AWS Global Accelerator,https://aws.amazon.com/global-accelerator
+  eu-central-2,AWS Glue,https://aws.amazon.com/glue/
+  eu-central-2,AWS Health Dashboard,https://aws.amazon.com/premiumsupport/technology/aws-health-dashboard/
++ eu-central-2,AWS IAM Identity Center,https://aws.amazon.com/iam/identity-center/
+  eu-central-2,AWS Identity and Access Management (IAM),https://aws.amazon.com/iam
+  eu-central-2,AWS Key Management Service,https://aws.amazon.com/kms/
+  eu-central-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+  eu-central-2,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
+  eu-central-2,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
+  eu-central-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
+! eu-central-2,Amazon Kinesis Data Analytics,https://aws.amazon.com/kinesis/analytics/
+  eu-central-2,Amazon Kinesis Data Firehose,https://aws.amazon.com/kinesis/firehose/
+  eu-central-2,Amazon Kinesis Data Streams,https://aws.amazon.com/kinesis/streams/
+  eu-central-2,Amazon MQ,https://aws.amazon.com/amazon-mq/
+  eu-central-2,Amazon Managed Streaming for Apache Kafka,https://aws.amazon.com/msk/
+  eu-central-2,Amazon OpenSearch Service,https://aws.amazon.com/opensearch-service/
+  eu-central-2,Amazon Redshift,https://aws.amazon.com/redshift/
+  eu-central-2,Amazon FSx for NetApp ONTAP,https://aws.amazon.com/fsx/netapp-ontap
+  eu-central-2,Amazon FSx for Windows File Server,https://aws.amazon.com/fsx/windows/
+  eu-central-2,Amazon GuardDuty,https://aws.amazon.com/guardduty/
+! eu-central-2,Amazon Inspector,https://aws.amazon.com/inspector/
+  eu-central-2,Amazon Kinesis Data Firehose,https://aws.amazon.com/kinesis/firehose/
+  eu-central-2,Amazon Kinesis Data Streams,https://aws.amazon.com/kinesis/streams/
+  eu-central-2,Amazon MQ,https://aws.amazon.com/amazon-mq/
++ eu-central-2,Amazon Managed Service for Apache Flink (MSF),https://aws.amazon.com/managed-service-apache-flink/
+  eu-central-2,Amazon Managed Streaming for Apache Kafka,https://aws.amazon.com/msk/
+  eu-central-2,Amazon OpenSearch Service,https://aws.amazon.com/opensearch-service/
+  eu-central-2,Amazon Redshift,https://aws.amazon.com/redshift/
+
+Diff from 2023-10-01 to 2023-10-28
+  eu-central-2,AWS Key Management Service,https://aws.amazon.com/kms/
+  eu-central-2,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+  eu-central-2,AWS Lambda,https://aws.amazon.com/lambda/
++ eu-central-2,AWS License Manager,https://aws.amazon.com/license-manager/
+  eu-central-2,AWS Marketplace,https://aws.amazon.com/mp/
+  eu-central-2,AWS Network Firewall,https://aws.amazon.com/network-firewall/
+  eu-central-2,AWS Organizations,https://aws.amazon.com/organizations
+  eu-central-2,Amazon Redshift,https://aws.amazon.com/redshift/
+  eu-central-2,Amazon Relational Database Service (RDS),https://aws.amazon.com/rds/
+  eu-central-2,Amazon Route 53,https://aws.amazon.com/route53/
++ eu-central-2,Amazon Route 53 Application Recovery Controller,https://aws.amazon.com/route53/application-recovery-controller/
+  eu-central-2,Amazon SageMaker,https://aws.amazon.com/sagemaker/
+  eu-central-2,Amazon Simple Notification Service (SNS),https://aws.amazon.com/sns/
+  eu-central-2,Amazon Simple Queue Service (SQS),https://aws.amazon.com/sqs/
+
+Diff from 2023-11-01 to 2023-10-28
