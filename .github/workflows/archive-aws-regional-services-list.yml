@@ -1,8 +1,9 @@
 name: Archive AWS regional services list
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches:
+      - feature/add-diff
 
 jobs:
   aws-regional-services-list:
