@@ -15,6 +15,10 @@ jobs:
         run: curl https://api.regional-table.region-services.aws.a2z.com/index.json | jq '[.prices[] .attributes] | sort_by(."aws:region", ."aws:serviceName") | .[] | join(",")' -r > aws-regional-services-`date +%F`.csv
         working-directory: data
 
+      - name: Get diff
+        run: ./get_diff.sh > ../../data/diff.txt
+        working-directory: .github/workflows
+
       - name: Commit and push list
         run: |
           git config --global user.name "Lukas Akermann"
