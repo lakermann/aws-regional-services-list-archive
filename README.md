@@ -2,7 +2,7 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/lakermann/aws-regional-services-list-archive)](https://github.com/lakermann/aws-regional-services-list-archive/commits/main/)
 
-_by [Lukas Akermann](https://github.com/lakermann)_
+_by [Lukas Akermann](https://github.com/lakermann), November 2022_
 
 ## Dataset
 
